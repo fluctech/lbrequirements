@@ -17,9 +17,3 @@ v0.1.0
 4. 当用户通过telegram bot主动请求时，也展示当前的24小时涨跌榜前20
 ### 具体需求
 
-
-
-## 使用方法
-1. 克隆项目：
-   ```bash
-   git clone https://github.com/yourusername/crypto-trading-tool.git
